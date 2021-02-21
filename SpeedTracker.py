@@ -42,4 +42,5 @@ def main():
     speedC(time1, time2, distance, nplate)
 
 
-main()
+if __name__ == "__main__":
+    main()
